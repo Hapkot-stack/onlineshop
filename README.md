@@ -37,7 +37,11 @@ The design follows modern UI/UX principles with a focus on usability, accessibil
 
 See:
 
-`prototype/figma-link.md`
+`prototype/figma-link.md` or 
+# Figma Project Link
+
+https://www.figma.com/design/zp99oM9ZT6IbdS2CP3BSns/Untitled?node-id=10-26&t=qAeyD50PHWCEWhY4-1
+
 
 ## Repository Structure
 
